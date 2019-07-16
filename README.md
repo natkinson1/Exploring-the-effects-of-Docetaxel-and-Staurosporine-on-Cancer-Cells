@@ -3,4 +3,8 @@ Image data has been collected over a 72 hour period to study the behaviour of ca
 
 ## Cells Treated with Docetaxel
 
-![](https://media.giphy.com/media/UTpbq4MocXaL87HwHs/giphy.gif) | ![](https://media.giphy.com/media/YMGASM4CatkDIU7tPA/giphy.gif)
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://media.giphy.com/media/UTpbq4MocXaL87HwHs/giphy.gif)  |  ![](https://media.giphy.com/media/YMGASM4CatkDIU7tPA/giphy.gif)
